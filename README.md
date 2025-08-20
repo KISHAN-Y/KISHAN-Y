@@ -1,7 +1,7 @@
 <div align="center">
   
 # 🚀 Hi, I'm **KISHAN YADAV** 👋
-### 💻 A passionate **Full-Stack Developer & UI/UX Designer** from India 🇮🇳
+### 💻 A passionate **Full-Stack Developer & UI/UX Designer**
 
 <img width="100%" height="2" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
@@ -57,7 +57,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
 </div>
 
@@ -83,19 +82,19 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishan-y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-y&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishan-y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishan-y&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-y&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kishan-y&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🏆 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-y&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kishan-y&theme=redical" alt="GitHub Activity Graph" />
 </div>
 
 ---
