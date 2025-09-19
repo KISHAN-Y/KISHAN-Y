@@ -84,17 +84,24 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishan-y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishan-y&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=KISHAN-Y&theme=highcontrast"/>
 </div>
+---
+
+## 🏆 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kishan-y&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-y&bg_color=0d1117&color=ffffff&line=00b383&point=00b383&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🏆 GitHub Activity Graph
+## 🟩 My Contributions Grid  
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=kishan-y&theme=redical" alt="GitHub Activity Graph" />
+
+[![Kishan's GitHub Contributions](https://ghchart.rshah.org/00b383/kishan-y)](https://github.com/kishan-y)
+
 </div>
 
 ---
