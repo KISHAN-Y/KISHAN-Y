@@ -25,7 +25,8 @@
 ## 🎯 What I’m Working On
 
 - 🎓 **Live Project – UniQuiz**  
-  A smart quiz platform designed to automate MCQ-based assessments for universities with a clean and scalable architecture.
+  A smart quiz platform built to automate MCQ-based assessments for universities with a clean UI and scalable architecture.  
+  👉 [Visit UniQuiz](https://uniquizz-app.netlify.app/)
 
 - 🔭 **Current Focus – Admin Dashboard (Leaf Lore)**  
   Developing a modern admin dashboard with structured workflows and intuitive UI.  
